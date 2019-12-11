@@ -11,3 +11,4 @@ data a;
  put rc=;
 run;
 *comment2*;
+*comment3*;
