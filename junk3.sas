@@ -12,3 +12,4 @@ data a;
 run;
 *comment2*;
 *comment3*;
+*comment4*;
