@@ -7,7 +7,7 @@
 *** server: sasoa.corp.local                               ***;
 *** port: 8561                                             ***;
 *** store login in profile                                 ***;
-
+*** change 12dec19 ***;
 *** BEGIN EXAMPLE 1 INTERACTING VIYA WITH EG ***;
 
 *** Create a cas session ***;
