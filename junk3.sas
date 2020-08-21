@@ -1,4 +1,5 @@
 data junk3; junk3='junk7'; run;
+data junk3; junk3='junk8'; run;
 
 options dlcreatedir notes source;
 
