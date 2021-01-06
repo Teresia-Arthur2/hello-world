@@ -1,16 +1,3 @@
-data junk3; junk3='junk7'; run;
-data junk3; junk3='junk8'; run;
-
-options dlcreatedir notes source;
-
 data a;
- version = gitfn_version();
- put version=;             
-
- rc = gitfn_clone("https://github.com/SeacoastBank/hello-world/",
-   "c:\helloworld4");
- put rc=;
+	b=2;
 run;
-*comment2*;
-*comment3*;
-*comment4*;
